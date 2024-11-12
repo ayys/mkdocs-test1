@@ -1,5 +1,6 @@
 [book]
-authors = ["M.Amin Rayej"]
+authors = ["M.Amin Rayej", "Ayush Jha"]
+
 language = "en"
 multilingual = false
 src = "src"
